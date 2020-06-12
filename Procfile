@@ -1,0 +1,1 @@
+web: python3 ktu_bot_flask_tb.py
