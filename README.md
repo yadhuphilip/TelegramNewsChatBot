@@ -3,7 +3,7 @@ Code for a Telegram chatbot that scraps the university website and fetches news 
 
 
 project uses flask to deploy the codebase in heroku
-project is live <a href="https://t.me/ktu_news_bot">TELEGRAM BOT LINK t.me/ktu_news_bot </a>  in  telegram.
+project is live <a href="https://t.me/ktu_news_bot">LINK for telegram  t.me/ktu_news_bot </a>  in  telegram.
 
 
 clone the repo and use own chatbot api from telegram botfather.
